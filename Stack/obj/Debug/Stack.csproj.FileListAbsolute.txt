@@ -1,0 +1,6 @@
+C:\Users\cagda\source\repos\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\cagda\source\repos\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\cagda\source\repos\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\cagda\source\repos\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\cagda\source\repos\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\cagda\source\repos\Stack\Stack\obj\Debug\Stack.pdb
